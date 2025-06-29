@@ -1,8 +1,8 @@
 # Port Tariff Calculator
 
-A sophisticated AI-powered system for calculating port tariffs for vessels berthing at South African ports (Durban, Saldanha, Richard's Bay). The system uses advanced RAG (Retrieval-Augmented Generation) technology with semantic search to extract relevant tariff information and calculate accurate fees.
+A RAG system with semantic search for to extract relevant tariff information and calculate accurate fees. calculating port tariffs for vessels berthing at South African ports (Durban, Saldanha, Richard's Bay). 
 
-## 🚢 Features
+##  Features
 
 - **Multi-Port Support**: Calculate tariffs for Durban, Saldanha, and Richard's Bay
 - **AI-Powered Calculations**: Uses Google Gemini AI with specialized prompts for each fee type
